@@ -1,0 +1,1 @@
+this repository is  dedicated to mastering the core concepts of Spring Boot, focusing on Beans, Inversion of Control (IoC), and Gradle build automation. It serves as a comprehensive guide and learning resource for developers aiming to build robust and maintainable Spring Boot applications.
